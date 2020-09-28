@@ -8,9 +8,9 @@ namespace EFCore.Models
 {
     public class Category : Controller
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        public int CategoryId { get; set; }
+        public string CategoryName { get; set; }
+        public string Description { get; set; }
+        public ICollection<Product> Products { get; set; }
     }
 }

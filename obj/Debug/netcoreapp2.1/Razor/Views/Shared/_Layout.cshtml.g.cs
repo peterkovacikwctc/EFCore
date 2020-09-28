@@ -47,7 +47,7 @@ namespace EFCore.Views.Home.Shared
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(27, 873, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7a70891ea5cb4c2d81841e8a250d3b0a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b27a769f20e04815b05e724ece8d6d78", async() => {
                 BeginContext(33, 102, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>");
                 EndContext();
@@ -87,7 +87,7 @@ namespace EFCore.Views.Home.Shared
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(902, 3462, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0fdb7e2ede7d4b30adb92b903f97c9fd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "055c3afb553641aab1f7bfa8ac7cd9bb", async() => {
                 BeginContext(908, 2195, true);
                 WriteLiteral(@"
     <!-- navbar -->
@@ -121,7 +121,7 @@ namespace EFCore.Views.Home.Shared
                 WriteLiteral("n-item\" href=\"#\"><i class=\"fas fa-sign-in-alt\"></i> Sign In</a>\r\n                    </div>\r\n                </li>\r\n            </ul>\r\n            ");
                 EndContext();
                 BeginContext(3103, 341, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "08c9037f78e144c29f206dce18d3327b", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3cf88903d21149d193f19cd9b79f74da", async() => {
                     BeginContext(3155, 282, true);
                     WriteLiteral(@"
                 <input class=""form-control mr-sm-2"" type=""search"" placeholder=""Search Products"" aria-label=""Search"">

@@ -26,3 +26,4 @@ C:\Users\Peter Kovacik\Documents\DOTNET_projects\EFCore\EFCore\obj\Debug\netcore
 C:\Users\Peter Kovacik\Documents\DOTNET_projects\EFCore\EFCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Peter Kovacik\Documents\DOTNET_projects\EFCore\EFCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Peter Kovacik\Documents\DOTNET_projects\EFCore\EFCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Peter Kovacik\Documents\DOTNET_projects\EFCore\EFCore\obj\Debug\netcoreapp2.1\Razor\Views\Product\Category.cshtml.g.cs

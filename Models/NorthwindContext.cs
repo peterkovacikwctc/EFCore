@@ -8,9 +8,6 @@ namespace EFCore.Models
 {
     public class NorthwindContext : Controller
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        
     }
 }
